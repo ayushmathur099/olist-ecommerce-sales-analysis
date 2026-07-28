@@ -9,6 +9,7 @@ This project was completed as part of my Business Analytics portfolio to practic
 ---
 
 ## Tools Used
+- VS Code
 - SQL (SQLite)
 - Python
 - Pandas
